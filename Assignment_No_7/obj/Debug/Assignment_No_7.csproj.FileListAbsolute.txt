@@ -1,0 +1,12 @@
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\bin\Debug\Assignment_No_7.exe.config
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\bin\Debug\Assignment_No_7.exe
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\bin\Debug\Assignment_No_7.pdb
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.csproj.AssemblyReference.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.frm_Search_Image_Details.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.Frm_Show_Image_Details.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.frm_Picture_Box.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.Properties.Resources.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.csproj.GenerateResource.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.exe
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment7\Assignment_No_7\obj\Debug\Assignment_No_7.pdb
