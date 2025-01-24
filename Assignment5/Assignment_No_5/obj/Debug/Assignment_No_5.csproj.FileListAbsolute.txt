@@ -1,0 +1,10 @@
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\bin\Debug\Assignment_No_5.exe.config
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\bin\Debug\Assignment_No_5.exe
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\bin\Debug\Assignment_No_5.pdb
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\obj\Debug\Assignment_No_5.csproj.AssemblyReference.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\obj\Debug\Assignment_No_5.frm_Employee_Details.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\obj\Debug\Assignment_No_5.Properties.Resources.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\obj\Debug\Assignment_No_5.csproj.GenerateResource.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\obj\Debug\Assignment_No_5.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\obj\Debug\Assignment_No_5.exe
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment5\Assignment_No_5\obj\Debug\Assignment_No_5.pdb
