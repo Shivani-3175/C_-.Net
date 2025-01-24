@@ -1,0 +1,10 @@
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\obj\Debug\Assignment_No_6.csproj.AssemblyReference.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\obj\Debug\Assignment_No_6.Form1.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\obj\Debug\Assignment_No_6.Properties.Resources.resources
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\obj\Debug\Assignment_No_6.csproj.GenerateResource.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\obj\Debug\Assignment_No_6.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\bin\Debug\Assignment_No_6.exe.config
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\bin\Debug\Assignment_No_6.exe
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\bin\Debug\Assignment_No_6.pdb
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\obj\Debug\Assignment_No_6.exe
+C:\Users\sagar\Documents\Shivani\c# Assignment\Assignment6\Assignment_No_6\obj\Debug\Assignment_No_6.pdb
